@@ -1,0 +1,19 @@
+body {
+    background-color: darkgrey !important;
+}
+
+.height {
+    min-height: 100vh;
+    align-items: center;
+}
+
+.quoteContainer {
+    background-color: lightgray;
+    min-width: 60vh;
+    min-height: 60vh;
+    padding: 5rem !important;
+}
+
+.quoteBtn {
+    margin: 0 5vh;
+}
