@@ -17,3 +17,9 @@ body {
 .quoteBtn {
     margin: 0 5vh;
 }
+
+span.randomQuote {
+    
+    font-size: 1em;
+    font-style: italic;
+}
