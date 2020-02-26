@@ -34,7 +34,6 @@ const randomQuotes = (arr) => {
     arr = quotes;
     let num = Math.floor(Math.random()*quotes.length);
 
-    console.log(num)
     let quote = document.querySelector('#quote').textContent = `...${arr[num]}`;
 
     return quote

@@ -9,17 +9,22 @@ body {
 
 .quoteContainer {
     background-color: lightgray;
-    min-width: 60vh;
-    min-height: 60vh;
+    min-width: 50vh;
+    min-height: 40vh;
     padding: 5rem !important;
 }
 
 .quoteBtn {
-    margin: 0 5vh;
+    margin: 2vh 5vh;
 }
 
 span.randomQuote {
     
     font-size: 1em;
     font-style: italic;
+}
+
+.fa-quote-right {
+    display: flex !important;
+    justify-content: flex-end;
 }
